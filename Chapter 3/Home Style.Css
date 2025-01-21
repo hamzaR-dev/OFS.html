@@ -1,0 +1,104 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+#Navigation{
+    display: flex;
+    justify-content: space-between;
+    background-image:url('Img/HC.png');
+    height: 375px;
+}
+.logo1{
+    display: flex;
+    align-content: center;
+    justify-content: end;
+    height: 100px;
+    width: 100px;
+    margin-left: 65px;
+    border: solid 2px black;
+}
+.statusbar {
+    display:flex;
+    margin-right: 100px;
+    gap: 40px;
+    height: 20px;
+    width: 100%;  
+}
+.YIWC{
+    display: block;
+    margin-top: 140px;
+    margin-left: 5px;   
+    font-size: 30px;
+    color:whitesmoke;
+    height: 30px;
+    width: 100%;
+}
+.ACIPML{
+    display: flex;
+        margin-top: 10px;
+        font-size: 17px;
+        margin-right: 110px;
+        color: whitesmoke;
+
+    }
+    #Residential{
+        display: flex;
+        
+    }
+    .Rimage{
+        margin-top: 50px;
+        margin-left: 200px;
+        
+    }
+    .Rcontent{
+        display: flex;
+        height: 600px;
+        width: 500px;
+        border: solid 1px whitesmoke;
+        margin-top: 110px;
+        margin-left: -50px;
+        background-color: white;
+        
+    }
+    h2{
+        font-size: 20px;
+        color: #D9992D;
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    h4{
+        font-size: 40px;
+        margin-left: 50px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    p{
+        margin-left: 50px;
+        font-size: 15px;
+        font-family: 'Montserrat', sans-serif;
+        opacity: 0.3;
+    }
+    .Exp{
+        display: flex;
+        margin-top: 630px;
+        margin-left: -360px;
+        font-size: 32px;
+        padding: 0px;
+        font-family: sans-serif;
+    }
+   .EC{
+    display: flex;
+   }
+   h3{
+    display: flex;
+    font-size: 12px;
+    font-family: sans-serif;
+    opacity: 0.3;
+    margin-left: -310px;
+    margin-top: 40px;
+    
+   }
+        

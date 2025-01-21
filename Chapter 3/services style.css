@@ -1,0 +1,30 @@
+
+        body{
+            background-color: antiquewhite;
+        }
+    
+         #Navigation{
+            background-image:url('Img/HC.png');
+            height: 30px;
+            align-content: center;
+                 }
+                 .ourservices{
+                    background-image: url('Img/HC.png');
+                    justify-content: center;
+                    height: 1000px;
+                 }
+
+        .interiordesign{
+            background-color: rgb(232, 211, 188);
+            width: 650px;
+        }
+        .homedecor{
+            background-color: rgb(232, 211, 188);
+            width: 650px;
+        }
+        .EM{
+            background-color: rgb(232, 211, 188);
+            width: 650px;
+        }
+        
+    
