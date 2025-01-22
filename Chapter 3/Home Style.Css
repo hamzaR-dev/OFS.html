@@ -58,12 +58,13 @@ body{
         display: flex;
         height: 600px;
         width: 500px;
-        border: solid 1px whitesmoke;
+        border:solid 1px whitesmoke;
         margin-top: 110px;
         margin-left: -50px;
-        background-color: white;
+        background-color: whitesmoke;
         
-    }
+        
+       }
     h2{
         font-size: 20px;
         color: #D9992D;
@@ -99,6 +100,53 @@ body{
     opacity: 0.3;
     margin-left: -310px;
     margin-top: 40px;
-    
-   }
+    }
         
+    #Commercial{
+        display: flex;
+        
+    }
+    .Cimage{
+        margin-top: 50px;
+        margin-left: 710px;
+        height: 700px;
+        }
+    .Ccontent{
+       display: flex;
+       margin-top: 100px;
+       margin-left: -950px;
+       height: 600PX; 
+       width: 500px;
+       background-color: whitesmoke;
+       border: solid 1px whitesmoke;
+    }
+    h2{
+        font-size: 20px;
+        color: #D9992D;
+        font-family: 'Montserrat', sans-serif;
+    }
+    h4{
+        font-size: 40px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    p{
+        font-size: 15px;
+        font-family: 'Montserrat', sans-serif;
+        opacity: 0.3;
+    }
+    .TM{
+        display: flex;
+        font-size: 60px;
+        margin-left: -280px;
+        margin-top: 630px;
+        font-family: sans-serif;
+        
+    }
+    .TMC{
+        margin-left: 50px;
+        margin-top: -320px;
+        margin-left: 290px;
+        font-family: sans-serif;
+    }
+    
+
